@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLogin</string>
+
+    <string-array name="operaciones">
+        <item>Transferencia</item>
+        <item>Abono</item>
+        <item>Retiro</item>
+    </string-array>
+</resources>
